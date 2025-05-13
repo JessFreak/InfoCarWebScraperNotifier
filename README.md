@@ -40,5 +40,11 @@ npm start
 
 ## Example Screenshots
 Screenshot of the Telegram notification and the scraper in action
-Console outpute: ![image](https://github.com/user-attachments/assets/ee33a5d3-fb72-4b6c-9f14-2e8c46b1f633)
-Bot messages: ![image](https://github.com/user-attachments/assets/1193a248-ef2a-428c-ae4d-00f4002eadf9)
+
+### Failed attempt: 
+![image](https://github.com/user-attachments/assets/8df71723-c946-46b9-9e10-802c37bd7f8f)
+### Successful attempt: 
+#### Console output
+![image](https://github.com/user-attachments/assets/ee33a5d3-fb72-4b6c-9f14-2e8c46b1f633)
+#### Bot messages
+![image](https://github.com/user-attachments/assets/1193a248-ef2a-428c-ae4d-00f4002eadf9)
