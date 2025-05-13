@@ -37,3 +37,7 @@ npm install
 ```bash
 npm start
 ```
+
+## Example Screenshots
+Screenshot of the Telegram notification and the scraper in action
+![image](https://github.com/user-attachments/assets/1193a248-ef2a-428c-ae4d-00f4002eadf9)
